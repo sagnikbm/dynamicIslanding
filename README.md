@@ -1,4 +1,4 @@
-########################################################################################################
+#######################################################################################
 
 This is for the following paper below. Full version available on Github.
 
@@ -8,7 +8,7 @@ Full version available from: https://www.researchgate.net/publication/339333134_
 
 Please note the paper on IEEExplore has a typo in equation (5) which unfortunately I was not able to correct even after multiple requests to IEEE. Please access the papers on Github or ResearchGate for the correct version. I apologize for this.
 
-########################################################################################################
+########################################################################################
 
 
 
