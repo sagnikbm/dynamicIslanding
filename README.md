@@ -11,5 +11,3 @@ Please note the paper on IEEExplore has a typo in equation (5) which unfortunate
 ########################################################################################
 
 
-
-$f = c(v)$
