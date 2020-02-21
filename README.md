@@ -1,5 +1,4 @@
-Dynamic Islanding in Power Systems Based on Real-Time Operating Conditions
-Sagnik Basumallik, Sara Eftekharnejad
+Dynamic Islanding in Power Systems Based on Real-Time Operating Conditions: A Tutorial by Sagnik Basumallik
 
 This tutorial is for the following paper below.
 
